@@ -1,0 +1,29 @@
+{
+  "name": "almost-increasing",
+  "version": "1.0.0",
+  "description": "Determine if the array has almost increasing sequence",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest -i --colors --verbose --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseyinozgul/almost-increasing.git"
+  },
+  "keywords": [
+    "almost",
+    "increase",
+    "jest",
+    "algorithm"
+  ],
+  "author": "Huseyin Ozgul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseyinozgul/almost-increasing/issues"
+  },
+  "homepage": "https://github.com/huseyinozgul/almost-increasing#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
